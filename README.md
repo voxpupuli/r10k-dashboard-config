@@ -13,6 +13,12 @@ This dashboard has one script, generate_puppetfile.rb, that connects to forge.pu
 gets all modules from the Vox Pupuli account, and writes them into a Puppetfile. The website
 parses this file on each request.
 
+## Screenshot
+
+The page looks like this after you authorized the OAuth application.
+
+![screenshot from the main overview](main.png)
+
 ## License
 
 This is licensed under AGPL-3. See the LICENSE file for details.
