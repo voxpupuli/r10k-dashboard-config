@@ -1,8 +1,6 @@
 #!/usr/bin/env ruby
 
 # this works with Ruby 3
-require 'yaml'
-require 'open-uri'
 require 'puppet_forge'
 
 # Get a list of all modules + their last version from one forge account
